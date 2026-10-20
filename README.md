@@ -1,6 +1,4 @@
-# Système sécurisé de virements bancaires
 
-Exercice pratique de **gestion des exceptions en Java** (Master 1 – Programmation Java).
 
 ## Objectifs pédagogiques
 
