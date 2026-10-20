@@ -24,15 +24,7 @@ banking-app/
 └── README.md
 ```
 
-## Hiérarchie des exceptions
 
-```
-Exception
-└── BankingException
-    ├── InsufficientFundsException
-    ├── TransferLimitExceededException
-    └── InvalidAccountException
-```
 
 ## Règles de validation d'un virement
 
@@ -86,11 +78,7 @@ Modifier le montant dans `Main.java` (`service.transfer(a, b, ...)`), puis recom
 | `20000` | Plafond dépassé    |
 | `-5`    | Argument invalide  |
 
-## Nettoyage
 
-```bash
-rm *.class
-```
 
 ## Limite connue
 
