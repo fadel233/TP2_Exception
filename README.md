@@ -1,4 +1,4 @@
-# Banking App — Gestion des virements bancaires
+
 
 ## 1. Objectifs pédagogiques
 
